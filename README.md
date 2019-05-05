@@ -25,9 +25,13 @@ To understand each of the components above in more detail, please visit the read
 
 It is useful but not required to have a basic knowledge of the following topics:
 
-* Kubernetes
-* Azure DevOps (formally VSTS) or Jenkins
+** Kubernetes
+** Azure DevOps (formally VSTS) or Jenkins
 
 ## Resources
 
 The provisioning of this environment for proctors can be found in the [DevOps Openhack Proctor](https://github.com/Azure-Samples/openhack-devops-proctor) Github repository.
+
+##Azure DevOps Project
+[Azure DevOps Project](https://azure.microsoft.com/en-us/services/devops/)
+[Sample](https://verlebie.visualstudio.com/)
